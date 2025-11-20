@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdalOnShow/BrainWave/main/public/home.png
+" width="900" />
+</p>
+
 # Brainwave 🌐
 
 A clean, responsive, and modern web application built with React.js, React Router DOM, and Tailwind CSS.  
